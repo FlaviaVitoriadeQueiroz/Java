@@ -1,6 +1,6 @@
 # 📚 Estudos em Java
 
-Este repositório contém meus códigos de estudo em **Java 21**, reunindo exercícios, exemplos e projetos desenvolvidos ao longo de cursos e também na disciplina de **Programação Orientada a Objetos (POO)** da **UFMS** (Universidade Federal de Mato Grosso do Sul).
+Este repositório contém meus códigos de estudo em **Java 21**, reunindo exercícios, exemplos e projetos desenvolvidos ao longo de cursos do DataCamp e também da disciplina de **Programação Orientada a Objetos (POO)** da **UFMS** (Universidade Federal de Mato Grosso do Sul).
 
 ## ✨ Objetivo
 
